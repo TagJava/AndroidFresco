@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidFresco</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="no_data">没有找到符合条件的课程</string>
+</resources>
